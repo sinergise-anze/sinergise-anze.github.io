@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Proba-V",
+        "content": [
+            {
+                "name": "Proba-V",
+                "service": "WMS",
+                "url": "https://proba-v-mep.esa.int/applications/geo-viewer/app/geoserver/ows",
+                "layersExclude": "/_1KM$/"
+            }
+        ]
+    }
+]
