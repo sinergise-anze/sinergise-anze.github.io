@@ -1,12 +1,17 @@
 [
     {
-        "name": "Proba-V",
+        "name": "Proba-V & S-5P",
         "content": [
             {
                 "name": "Proba-V",
                 "service": "WMS",
                 "url": "https://proba-v-mep.esa.int/applications/geo-viewer/app/geoserver/ows",
                 "layersExclude": "/_1KM$/"
+            },
+            {
+                "name": "S-5P",
+                "service": "WMS",
+                "url": "http://services.eocloud.sentinel-hub.com/v1/wms/11f6ec68-179b-43b8-8996-70305cee0942",
             }
         ]
     }
