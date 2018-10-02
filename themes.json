@@ -11,7 +11,8 @@
             {
                 "name": "S-5P",
                 "service": "WMS",
-                "url": "http://services.eocloud.sentinel-hub.com/v1/wms/11f6ec68-179b-43b8-8996-70305cee0942",
+                "__url": "http://services.eocloud.sentinel-hub.com/v1/wms/11f6ec68-179b-43b8-8996-70305cee0942",
+                "url": "http://services.eocloud.sentinel-hub.com/v1/wms/7a63bd13-6a14-43df-be62-c1d601d78bf1"
             }
         ]
     }
